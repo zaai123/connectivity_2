@@ -1,0 +1,4 @@
+#Tue Apr 28 14:00:38 CEST 2020
+base.0=/Users/amardeep/Downloads/connectivity/connectivity/example/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
