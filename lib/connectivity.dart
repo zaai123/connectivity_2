@@ -23,12 +23,12 @@ class Connectivity {
     if (_singleton == null) {
       _singleton = Connectivity._();
     }
-    return _singleton;
+    return _singleton!;
   }
 
   Connectivity._();
 
-  static Connectivity _singleton;
+  static Connectivity? _singleton;
 
   static ConnectivityPlatform get _platform => ConnectivityPlatform.instance;
 

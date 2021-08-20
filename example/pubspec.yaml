@@ -1,5 +1,9 @@
 name: connectivity_example
 description: Demonstrates how to use the connectivity plugin.
+publish_to: 'none'
+
+environment:
+  sdk: ">=2.13.0 <3.0.0"
 
 dependencies:
   flutter:
@@ -10,9 +14,9 @@ dependencies:
 dev_dependencies:
   flutter_driver:
     sdk: flutter
-  test: any
-  e2e: ^0.2.0
-  pedantic: ^1.8.0
+#  test: any
+#  e2e: ^0.2.0
+#  pedantic: ^1.8.0
 
 flutter:
   uses-material-design: true

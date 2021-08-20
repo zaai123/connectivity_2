@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/amardeep/Downloads/connectivity/connectivity/example/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-is/values-is.xml",
+            "outputFile": "/Users/amardeep/FlutterProjects/connectivity_2/example/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-is/values-is.xml",
             "map": [
                 {
-                    "source": "/Users/amardeep/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/99cc5b9d3b74da3b1dc9a8d8664c162d/res/values-is/values-is.xml",
+                    "source": "/Users/amardeep/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/f2509bd64dac3aef835ff4649e9061ee/res/values-is/values-is.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
